@@ -30,6 +30,17 @@ Root olarak çalışmalıdır. Sonunda Apache, nginx, sw-cp-server ve MariaDB du
   dosyalarına dokunmaz.
 - Kendi sunucunuzda, sorumluluk size aittir. Kullanmadan önce kodu okuyun.
 
-## Lisans
+---
 
-MIT
+## Donate
+
+If you find this project useful, consider supporting its development:
+
+| Network | Address |
+|---------|---------|
+| **USDT (TRC20)** | `TYCK6ZyMS6UDt787foPH2QwFuvkdqMw1Jv` |
+| **USDT (BSC20 / BEP20)** | `0x15aac92a1945ddbe5c79304bfa388d6be99b26a3` |
+
+---
+
+<p align="center">Created by <strong>TAPSIN</strong></p>

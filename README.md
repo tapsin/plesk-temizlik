@@ -30,6 +30,10 @@ Root olarak çalışmalıdır. Sonunda Apache, nginx, sw-cp-server ve MariaDB du
   dosyalarına dokunmaz.
 - Kendi sunucunuzda, sorumluluk size aittir. Kullanmadan önce kodu okuyun.
 
+## Lisans
+
+Bu uygulama lisans gerektirmeyen, ücretsiz bir uygulamadır.
+
 ---
 
 ## Donate
